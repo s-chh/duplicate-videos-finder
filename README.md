@@ -3,7 +3,7 @@ Find all the duplicate videos in a folder and deletes them. Repeats it for all s
 
 <br>
 
-Videos are marked as duplicate if their first frame matches on per-pixels comparison and they have the exact same number of total frames.
+Videos are marked as duplicate if their first frame matches on per-pixels comparison and they have the same number of total frames.
 
 <br>
 
